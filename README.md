@@ -1,3 +1,3 @@
-### Personal blog 
+### Don Freecs Blog
 
-this is my personal blog
+[A new way to make money](ai/loop.md)
